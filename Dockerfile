@@ -1,5 +1,5 @@
-FROM developeranaz/qbittorrent2rclone:beta1
-#FROM developeranaz/qbittorrent-rclone-heroku
+#FROM developeranaz/qbittorrent2rclone:beta1
+FROM developeranaz/qbittorrent-rclone-heroku
 #RUN apt update 
 #RUN apt install unzip 
 #RUN apt install qbittorrent-nox -y
