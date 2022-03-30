@@ -20,6 +20,6 @@
 
   },
   "website": "",
-  "repository": "",
+  "repository": "https://github.com/yunus-25jmi/qbittorrent-to-rclone-heroku",
   "stack": "container"
  }
